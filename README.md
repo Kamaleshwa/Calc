@@ -108,7 +108,7 @@ Publish the website in the given URL.
         }
     }
 
-    var cal = document.getElementById('calc');
+    var cal = document.getElementById('calc'); 
     cal.onkeyup = function (event) {
         if (event.keyCode == 13) {
             console.log("Enter");
