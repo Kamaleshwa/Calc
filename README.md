@@ -128,8 +128,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![image](https://github.com/Kamaleshwa/Calc/assets/144980199/a28a3eb0-0600-4b94-bc30-ee7ddc8133a9)
+![image](https://github.com/Kamaleshwa/Calc/assets/144980199/965ff25f-0810-4c9b-80c5-074573028f84)
 
+![image](https://github.com/Kamaleshwa/Calc/assets/144980199/6c423fed-f301-45bf-8a07-856e4ad53f58)
 
 
 ## RESULT:
